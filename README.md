@@ -1,6 +1,6 @@
 <h1 align="center">✨ Hello there</h1>
 
-✨ [Discord Server](https://discord.gg/RB9SU5T5f9)
+✨ <h1>[Discord Server](https://discord.gg/RB9SU5T5f9)</h1>
 
 ### ✨ my socials
 ✨ **discord** L0L#6738
