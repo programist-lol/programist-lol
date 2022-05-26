@@ -1,10 +1,10 @@
 <h1 align="center">✨ Hello there</h1>
 
-✨<h1>[Discord Server](https://discord.gg/RB9SU5T5f9)</h1>
+<h1>[Discord Server](https://discord.gg/RB9SU5T5f9)</h1>
 
-### ✨ my socials
+<h1>✨ my socials</h1>
 ✨ **discord** L0L#6738
-
+***[Discord Server](https://discord.gg/RB9SU5T5f9)***
 * ✨ my name is Kirill
 * ✨ I like python and java
 * ✨ I have my minecraft server
